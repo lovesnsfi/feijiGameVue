@@ -1,0 +1,30 @@
+{
+    "images": {
+        "background": "/static/res/background.png",
+        "hero1": "/static/res/hero1.png",
+        "bullet2": "/static/res/bullet2.png",
+        "enemy0": "/static/res/enemy0.png",
+        "enemy1": "/static/res/enemy1.png",
+        "enemy2": "/static/res/enemy2.png",
+        "enemy0_down1": "/static/res/enemy0_down1.png",
+        "enemy0_down2": "/static/res/enemy0_down2.png",
+        "enemy0_down3": "/static/res/enemy0_down3.png",
+        "enemy0_down4": "/static/res/enemy0_down4.png",
+        "enemy1_down1": "/static/res/enemy1_down1.png",
+        "enemy1_down2": "/static/res/enemy1_down2.png",
+        "enemy1_down3": "/static/res/enemy1_down3.png",
+        "enemy1_down4": "/static/res/enemy1_down4.png",
+        "enemy2_down1": "/static/res/enemy2_down1.png",
+        "enemy2_down2": "/static/res/enemy2_down2.png",
+        "enemy2_down3": "/static/res/enemy2_down3.png",
+        "enemy2_down4": "/static/res/enemy2_down4.png",
+        "enemy2_down5": "/static/res/enemy2_down5.png",
+        "enemy2_down6": "/static/res/enemy2_down6.png",
+        "prop_type_0": "/static/res/prop_type_0.png",
+        "prop_type_1": "/static/res/prop_type_1.png"
+    },
+    "audio": {
+        "enem0_down": "/static/res/enemy0_down.mp3"
+    }
+
+}
